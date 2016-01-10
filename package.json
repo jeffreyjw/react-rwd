@@ -1,8 +1,8 @@
 {
   "name": "react-rwd",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "RWD done with react",
-  "main": "lib/library.js",
+  "main": "lib/react-rwd.js",
   "scripts": {
     "build": "WEBPACK_ENV=build webpack",
     "dev": "WEBPACK_ENV=dev webpack --progress --colors --watch"
